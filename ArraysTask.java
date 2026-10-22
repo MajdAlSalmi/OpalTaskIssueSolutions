@@ -183,9 +183,9 @@ System.out.println("");
     public static void main(String[] args) {
 
         int[] numbers = { 12, 7, 25, 3, 18, 9, 30, 14 };
-        
+
 //choose from 1-5 
-        program(5, numbers);
+        program(4, numbers);
 
 
     }
