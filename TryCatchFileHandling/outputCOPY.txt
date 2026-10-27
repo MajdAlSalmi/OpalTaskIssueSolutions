@@ -4,3 +4,7 @@ File Test 3
 
 test2;
 
+File Test 1
+File Test 2
+File Test 3
+
